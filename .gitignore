@@ -1,4 +1,4 @@
-main.tf
-providers.tf
-springpetclinic.service
-variables.tf
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
